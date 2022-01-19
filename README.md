@@ -1,7 +1,19 @@
 Fyyur musical venue and artist booking site
 -----
 
-## Introduction
+Academic purpose Project developed by Udacity completed by Carlos Castillo M.
+
+The student was asked to modify the back and frontend of a partially developed application.
+
+Proven use of:
+
+1) virtualenv. use and management of virtual environments. 
+2) PostgreSQL. Connection of the database with the app - Backend.
+3) Flask Migrate for version control - Backend.
+4) Endpoint modification and creation - Frontend.
+
+
+## Introduction - Udacity Description
 
 Fyyur is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and venues. This site lets you list new artists and venues, discover them, and list shows with artists as a venue owner.
 
