@@ -1,4 +1,4 @@
-Fyyur musical venue and artist booking site
+Fyyur - Musical venue and artist booking site
 -----
 
 Academic purpose Project developed by Udacity completed by Carlos Castillo M.
